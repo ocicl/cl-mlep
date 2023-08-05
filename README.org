@@ -4,7 +4,7 @@ cl-mlep is a Common Lisp Machine Learning library for Educational Purposes.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fzalkow/cl-mlep.git   |
-| commit  | e6a115f  |
+| commit  | de55491  |
 | systems | cl-mlep |
 |---------+-------------------------------------------|
 
